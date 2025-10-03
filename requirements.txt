@@ -11,3 +11,6 @@ interpret-core
 ipykernel               
 numba                   
 numpy                  
+seaborn
+matplotlib
+pandas
